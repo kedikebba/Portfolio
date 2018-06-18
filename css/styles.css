@@ -1,7 +1,10 @@
 body {
-  border: 1px solid black;
+  border: 2px solid black;
   width: 80%;
+  /* height: auto; */
   margin: auto;
+  background-color: grey;
+
   /* background-image: url(images/kedi1.png);
   background-color: rgba(0,0,0,0.5) */
 }
@@ -23,5 +26,12 @@ body {
 .general-description{
   text-align: center;
   font-size: 40px;
+  font-style: italic;
+
+}
+.persona{
+  float: left;
+  width: 220px;
+  padding: 15px;
 
 }
