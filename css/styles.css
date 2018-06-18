@@ -19,6 +19,12 @@ body {
 .top-buttons ul li{
   float: right;
   padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 2px;
+  color: white;
+  background-color: black;
+
 
 }
 .top-buttons ul{
@@ -34,5 +40,6 @@ body {
   float: left;
   width: 220px;
   padding: 15px;
+  margin: auto;
 
 }
