@@ -2,11 +2,14 @@ body {
   border: 1px solid black;
   width: 80%;
   margin: auto;
+  /* background-image: url(images/kedi1.png);
+  background-color: rgba(0,0,0,0.5) */
 }
-.kk-logo{
+.kk-logo img{
   float: left;
   width: 100px;
-  height: 100px;
+  height: 80px;
+  padding: 20px;
 
 }
 .top-buttons ul li{
@@ -16,4 +19,9 @@ body {
 }
 .top-buttons ul{
   list-style-type: none;
+}
+.general-description{
+  text-align: center;
+  font-size: 40px;
+
 }
