@@ -4,6 +4,9 @@ body {
   margin: auto;
 }
 .kk-logo{
+  float: left;
+  width: 100px;
+  height: 100px;
 
 }
 .top-buttons ul li{
